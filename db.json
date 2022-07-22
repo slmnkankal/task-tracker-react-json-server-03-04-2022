@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "do sth",
+      "day": "today in early hours",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "text": "new task",
+      "day": "today",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "text": "new task",
+      "day": "today in early hours",
+      "isDone": false,
+      "id": 3
+    }
+  ]
+}
